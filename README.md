@@ -21,7 +21,7 @@
 
 <p align="center">
   <strong>Project Report:</strong>
-  <a href="/mnt/data/GAMERZ_ZONE AWT Website By Shashank and Tuhin FYIT-A .pdf">Download PDF (report & screenshots)</a>
+  <a href="GAMERZ_ZONE Website By Shashank.pdf">Download PDF (report & screenshots)</a>
 </p>
 
 <p align="center">
